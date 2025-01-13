@@ -1,0 +1,2 @@
+nemo_toolkit[asr]
+huggingface-hub==0.23.2

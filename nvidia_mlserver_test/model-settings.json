@@ -1,0 +1,9 @@
+
+
+{
+    "name": "doc-sim-model",
+    "implementation": "server.MyKulModel",
+    "max_batch_size": 10,
+    "max_batch_time": 0.1,
+    "parallel_workers":3
+}

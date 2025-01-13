@@ -1,0 +1,16 @@
+# tts
+# transformers==4.31.0
+#4.37.2
+
+tortoise-tts
+torchaudio
+deepspeed
+spacy
+fastapi
+uvicorn
+
+# transformers
+# datasets
+# soundfile
+# torch
+# sentencepiece

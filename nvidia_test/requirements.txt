@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+websockets
+# python-multipart
+# numpy
+
+# mlserver
+google-cloud-texttospeech
+openai
+
+torchaudio
+soundfile
+nemo_toolkit[asr]
+resampy
+huggingface-hub==0.23.2

@@ -1,0 +1,11 @@
+# fastapi
+# uvicorn
+python-multipart
+# numpy
+
+# mlserver
+torchaudio
+soundfile
+nemo_toolkit[asr]
+resampy
+huggingface-hub==0.23.2
